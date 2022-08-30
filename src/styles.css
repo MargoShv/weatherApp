@@ -52,14 +52,13 @@ li {
   line-height: 2;
   opacity: 0.5;
 }
-
-.daytemperature-min {
+.weather-forecast-temperatures {
+  font-size: 16px;
+}
+.weather-forecast-temperature-min {
   opacity: 0.5;
 }
-.daytemperature {
-  font-size: 14px;
-  
-}
+
 svg {
   color: #885df1;
 }
